@@ -1,0 +1,23 @@
+{
+  "name": "@positron/support",
+  "version": "1.0.0-beta",
+  "description": "The positron support package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quorrajs/positron-support"
+  },
+  "keywords": [
+    "quorra",
+    "positron"
+  ],
+  "author": "Harish Anchu <harishanchu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quorrajs/positron-support/issues"
+  },
+  "homepage": "https://github.com/quorrajs/positron-support"
+}
